@@ -1,0 +1,1 @@
+This project is a simple clone of a famous music app - Spotify. This project is built on my understanding of basics as a web developer journey. This project is done to brush up the basics and also to have grip of the basics which help to advance in the modern frameworks.
